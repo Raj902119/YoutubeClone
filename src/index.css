@@ -84,5 +84,6 @@ a {
   }
   .search-bar{
     width:200px;
+    margin: 3px;
   }
 }
